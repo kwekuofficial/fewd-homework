@@ -1,6 +1,12 @@
 h1 {
   color: red;
 }
-div section="first-list" {
+
+#first-list {
   color: green;
+}
+
+.ul .li{
+font-style: italic;
+font-weight: bold;
 }
