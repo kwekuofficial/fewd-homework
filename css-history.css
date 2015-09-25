@@ -2,11 +2,24 @@ h1 {
   color: red;
 }
 
-#first-list {
+#first-line {
   color: green;
 }
 
-.ul .li{
+.date{
 font-style: italic;
 font-weight: bold;
+}
+
+.font-info > li {
+  color: pink;
+}
+
+ul blockquote {
+  background-color: gray;
+}
+
+div blockquote {
+  color: red;
+  background-color: black;
 }
